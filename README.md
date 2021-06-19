@@ -1,1 +1,1 @@
-Recipes Database at <a href="https://forsimmer.blogspot.com/">Forsimmer Recipe Database</a>
+Recipes Database at [Forsimmer Recipe Database](https://forsimmer.blogspot.com/)
